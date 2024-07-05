@@ -1,6 +1,6 @@
 # Overengineered To Do App (Back-end)
 
-This is the backe end of my to do app.
+This is the back end of my to do app.
 
 The front end part of the project can be found [here](https://github.com/RicardoKromerCavati/TSToDoApp).
 
