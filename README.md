@@ -4,7 +4,7 @@ This is the backe end of my to do app.
 
 The front end part of the project can be found [here](https://github.com/RicardoKromerCavati/TSToDoApp).
 
-
+## Description
 
 My goal with this whole project was initially to learn a functional language, I’m a C# programmer and right way I thought about **F#**. I started studying the language’s syntax and some functional concepts.
 
